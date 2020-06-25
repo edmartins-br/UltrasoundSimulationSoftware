@@ -1,3 +1,7 @@
+ATTENTION!
+THE BASE CODE WAS GIVEN BY MY PROFESSOR AT YOINSEI UNIVERSITY - SOUTH KOREA, AS WEEL AS THE BELLOW TEXT.
+I Developed the rest of the code o make everything work and the GUI.
+
 Files for ultrasound project
 
 data06.mat	RF ultrasound data of Mystery Object (1500 x 65 matlab matrix)
